@@ -1,1 +1,0 @@
-WMS(ware house management system) : is a very long term project that’s manage warehouses, supplier, customers, products and their stock when comes from purchase order or manually added , customer order against to Wearhouse and suppliers and It also include two-way integration from PrestaShop.

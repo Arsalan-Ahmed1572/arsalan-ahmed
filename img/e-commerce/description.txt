@@ -1,1 +1,0 @@
-E-Commerce: is a multi-store E-Commerce shopping cart system for e-commerce business development. It is all one package to manage inventory, product ,brands, category , discount, gift card, banner, popups , store specification from admin panel.
