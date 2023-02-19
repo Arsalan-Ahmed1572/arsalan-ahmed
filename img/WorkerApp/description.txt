@@ -1,0 +1,1 @@
+Worker App is a Web Application that consist of worker supply chains includes shipment details ,worker details ,clients detail , invoices and dock receipts that manages workers activities
